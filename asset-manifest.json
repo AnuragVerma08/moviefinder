@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/moviefinder/static/css/main.64f44ac2.chunk.css",
+    "main.js": "/moviefinder/static/js/main.00d69c3b.chunk.js",
+    "main.js.map": "/moviefinder/static/js/main.00d69c3b.chunk.js.map",
+    "runtime-main.js": "/moviefinder/static/js/runtime-main.daf8c32d.js",
+    "runtime-main.js.map": "/moviefinder/static/js/runtime-main.daf8c32d.js.map",
+    "static/css/2.ec6da10f.chunk.css": "/moviefinder/static/css/2.ec6da10f.chunk.css",
+    "static/js/2.53ead018.chunk.js": "/moviefinder/static/js/2.53ead018.chunk.js",
+    "static/js/2.53ead018.chunk.js.map": "/moviefinder/static/js/2.53ead018.chunk.js.map",
+    "index.html": "/moviefinder/index.html",
+    "precache-manifest.fe0fec6389cfec011666a34042a3d010.js": "/moviefinder/precache-manifest.fe0fec6389cfec011666a34042a3d010.js",
+    "service-worker.js": "/moviefinder/service-worker.js",
+    "static/css/2.ec6da10f.chunk.css.map": "/moviefinder/static/css/2.ec6da10f.chunk.css.map",
+    "static/css/main.64f44ac2.chunk.css.map": "/moviefinder/static/css/main.64f44ac2.chunk.css.map",
+    "static/js/2.53ead018.chunk.js.LICENSE.txt": "/moviefinder/static/js/2.53ead018.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/moviefinder/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daf8c32d.js",
+    "static/css/2.ec6da10f.chunk.css",
+    "static/js/2.53ead018.chunk.js",
+    "static/css/main.64f44ac2.chunk.css",
+    "static/js/main.00d69c3b.chunk.js"
+  ]
+}
